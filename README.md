@@ -12,4 +12,5 @@ Only 1 patient can pay for the service at a time and one of the three dentists h
 
 an example for output: 
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/106886074/172349404-67535eb2-cfab-4d20-8e8e-24a152778006.png)
+
