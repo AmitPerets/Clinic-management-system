@@ -1,4 +1,4 @@
-# Clinic-managment-system
+# Clinic-management-system
 
 Clinic Project Created as a part of "Operating Systems" course.
 
